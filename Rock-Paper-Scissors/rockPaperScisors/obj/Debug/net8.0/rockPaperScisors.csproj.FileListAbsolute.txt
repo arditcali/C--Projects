@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\bin\Debug\net8.0\rockPaperScisors.exe
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\bin\Debug\net8.0\rockPaperScisors.deps.json
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\bin\Debug\net8.0\rockPaperScisors.runtimeconfig.json
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\bin\Debug\net8.0\rockPaperScisors.dll
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\bin\Debug\net8.0\rockPaperScisors.pdb
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\obj\Debug\net8.0\rockPaperScisors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\obj\Debug\net8.0\rockPaperScisors.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\obj\Debug\net8.0\rockPaperScisors.AssemblyInfo.cs
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\obj\Debug\net8.0\rockPaperScisors.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\obj\Debug\net8.0\rockPaperScisors.dll
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\obj\Debug\net8.0\refint\rockPaperScisors.dll
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\obj\Debug\net8.0\rockPaperScisors.pdb
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\obj\Debug\net8.0\rockPaperScisors.genruntimeconfig.cache
+C:\Users\pc\Documents\c-sharp projects\Rock-Paper-Scissors\rockPaperScisors\obj\Debug\net8.0\ref\rockPaperScisors.dll
